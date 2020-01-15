@@ -1,4 +1,4 @@
-year,student-frosh,student-soph,student-upper,student-grad,housing-capacity,offices-capacity,classrooms-capacity,dining-capacity,labs-capacity,labs-classrooms-ratio,staff-population,dining-subscriptions,parking-capacity
+year,studentFrosh,studenSoph,studentUpper,studenGrad,housingCapacity,officesCapacity,classroomsCapacity,diningCapacity,labsCapacity,labsClassroomsRatio,staffPopulation,diningSubscriptions,parkingCapacity
 2019,1150,1043,1468,950,2608,200,58,750,20,0.05,100,2739.606013,2362
 2020,1200,1042,1653,1200,2608,200,58,750,20,0.05,125,2906.481963,2362
 2021,1250,1083,1863,1450,2608,200,58,750,20,0.05,150,3124.485863,2087
